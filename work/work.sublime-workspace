@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"ht",
+				"htmlHandle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/OpenGL.sublime-build",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insall",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/genie/work/js_examples/ch5/un_object.js",
+		"/Users/genie/work/js_examples/ch5/dataProperties.js",
+		"/Users/genie/work/js_examples/ch5/accProperties.js",
+		"/Users/genie/work/js_examples/ch5/mul_propetries.js",
+		"/Users/genie/work/js_examples/ch5/factoryPattern.js",
+		"/Users/genie/work/js_examples/ch5/constructorPattern.js",
+		"/Users/genie/work/js_examples/ch5/prototypePattern.js",
+		"/Users/genie/work/js_examples/ch5/property.js",
+		"/Users/genie/work/js_examples/ch5/object_key.js",
+		"/Users/genie/work/js_examples/ch5/prototype2.js",
+		"/Users/genie/work/js_examples/ch5/prototype3.js",
+		"/Users/genie/work/js_examples/ch5/native_object.js",
+		"/Users/genie/work/js_examples/ch5/prototype4.js",
+		"/Users/genie/work/js_examples/ch5/con_proto.js",
+		"/Users/genie/work/js_examples/ch5/prototype5.js",
+		"/Users/genie/work/js_examples/ch5/parasiticPattern.js",
+		"/Users/genie/work/js_examples/ch5/SpecialArray.js",
+		"/Users/genie/work/js_examples/ch5/DurablePattern.js",
+		"/Users/genie/work/js_examples/ch5/inheritance.js",
+		"/Users/genie/work/js_examples/README.md",
+		"/Users/genie/work/js_examples/ch4/type.js",
+		"/Users/genie/work/js_examples/ch4/pointer.js",
+		"/Users/genie/work/js_examples/ch4/scope.js",
+		"/Users/genie/work/js_examples/ch4/add_scope.js",
+		"/Users/genie/work/cpp_course/dice.cpp",
+		"/Users/genie/work/js_examples/ch4/color.js",
+		"/Users/genie/work/js_examples/ch4/url.js",
+		"/Users/genie/work/opengl/test.cpp",
+		"/Users/genie/work/js_examples/ch3/typeof.js",
+		"/Users/genie/work/php_examples/ch5/global.php",
+		"/Users/genie/work/js_examples/ch3/function.js",
+		"/Users/genie/work/js_examples/ch4/var.js",
+		"/Users/genie/work/php_examples/ch5/local.php",
+		"/Users/genie/work/php_examples/ch5/nestNamespace.php",
+		"/Users/genie/work/php_examples/ch5/autoload.php",
+		"/Users/genie/work/php_examples/ch5/TaskRunner.php",
+		"/Users/genie/work/js_examples/ch3/addtion.js",
+		"/Users/genie/work/js_examples/ch3/equal.js",
+		"/Users/genie/work/js_examples/ch3/switch.js",
+		"/Users/genie/work/php_examples/ch5/Task.php",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/User/OpenGL.sublime-build",
+		"/Users/genie/work/js_examples/ch3/nan.js",
+		"/Users/genie/work/symfony/README.md",
+		"/Users/genie/work/symfony/composer.json",
+		"/Users/genie/work/composer_test/composer.json",
+		"/Users/genie/work/symfony/app/AppKernel.php",
+		"/Users/genie/work/symfony/composer.",
+		"/Users/genie/work/js_examples/ch3/var.js",
+		"/Users/genie/work/php_examples/ch4/Product.php",
+		"/Users/genie/work/cpp_examples/ch3/io.cpp",
+		"/Users/genie/work/cpp_examples/ch3/float.cpp",
+		"/Users/genie/work/cpp_examples/ch3/removeDuplicates.cpp",
+		"/Users/genie/work/php_examples/ch4/XmlException.php",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/genie/work/php_examples/ch4/Runner.php",
+		"/Users/genie/work/php_examples/ch4/Conf.php",
+		"/Users/genie/work/php_examples/ch4/staticUsage2.php",
+		"/Users/genie/work/js_examples/test.html",
+		"/Users/genie/work/js_examples/noscript.html",
+		"/Users/genie/work/cpp_examples/ch2/hello.cpp",
+		"/Users/genie/work/opengl/SqureMac.cpp",
+		"/Users/genie/work/opengl",
+		"/Users/genie/work/cpp_examples/README.md",
+		"/Users/genie/work/README.md",
+		"/Users/genie/work/cpp_examples/hello.cpp",
+		"/Users/genie/work/cpp/hello.cpp",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/genie/work/cpp",
+		"/Users/genie/work/php_examples/README.md",
+		"/Users/genie/Desktop/HelloWorld.cpp",
+		"/Users/genie/Desktop/HelloWorld.h",
+		"/Users/genie/public_html/test.php",
+		"/Users/genie/public_html/HTMLHandle.php",
+		"/Users/genie/public_html/prototype.php",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/Package Control/Main.sublime-menu",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/Package Control/Default.sublime-commands",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Installed Packages/SideBarEnhancements.sublime-package",
+		"/Users/genie/.ssh/id_rsa.pub",
+		"/Users/genie/.ssh/github_rsa.pub",
+		"/Users/genie/Downloads/ShestakUI_Filger/Settings.lua",
+		"/Applications/World of Warcraft/Interface/Addons/ShestakUI_Filger/Cooldowns.lua",
+		"/Applications/World of Warcraft/Interface/Addons/ShestakUI_Filger/Spells.lua",
+		"/Users/genie/Desktop/web_app/hfhtmlcss/chapter14/starbuzz/accessform.html",
+		"/Users/genie/Desktop/web_app/hfhtmlcss/chapter14/starbuzz/accessform.css",
+		"/Applications/MAMP/bin/phpMyAdmin/libraries/config.default.php",
+		"/Users/genie/Desktop/web_app/hfhtmlcss/chapter4/starbuzz/index.html",
+		"/Users/genie/Desktop/web_app/hfhtmlcss/chapter4/starbuzz/mission.html",
+		"/Applications/MAMP/htdocs/Symfony/src/Acme/HelloBundle/Resources/views/index.html.twig",
+		"/Applications/MAMP/htdocs/Symfony/src/Acme/HelloBundle/AcmeHelloBundle.php",
+		"/Applications/MAMP/htdocs/Symfony/app/Resources/views/base.html.twig",
+		"/Applications/MAMP/htdocs/Symfony/src/Acme/TestBundle/AcmeTestBundle.php",
+		"/Applications/MAMP/htdocs/Symfony/app/AppKernel.php",
+		"/Applications/MAMP/bin/php/php5.4.10/conf/php.ini",
+		"/Users/genie/Desktop/web_app/startbuzz.html",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/genie/Library/Application Support/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Fxitures",
+			";\n",
+			"pet",
+			"pe't",
+			"hunter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"project": "work.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/symfony.sublime-project"
+			],
+			[
+				"pr",
+				"~/work/prototyping.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
